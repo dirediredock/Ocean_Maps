@@ -1,0 +1,52 @@
+---
+title: "Visualizing the World Ocean"
+output: github_document
+---
+
+Using `Matlab` to create data visualizations of the World Ocean
+
+## Energy and Depth
+
+#### Light
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/LightGIF.gif)
+
+#### Daytime Temperature
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/DayTemperatureGIF.gif)
+
+#### Mixed Layer Depth
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/MixedLayerDepthGIF.gif)
+
+#### The Neritic Zone, or the ecological coast of the World Ocean
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/NeriticZone.png)
+
+## Dissolved in Seawater
+
+#### Salinity
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/SalinityGIF.gif)
+
+#### Silicate
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/SilicateGIF.gif)
+
+#### Nitrate
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/NitrateGIF.gif)
+
+#### Phosphate
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/PhosphateGIF.gif)
+
+#### Oxygen at the surface
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/SurfaceOxygenGIF.gif)
+
+#### Oxygen at a depth of 500 meters 
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/500deepOxygenGIF.gif)
+
+#### Apparent Oxygen Utilization at a depth of 500 meters 
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/500depthRespirationGIF.gif)
+
+## Photosynthesis and Carbon Fixation
+
+#### Chlorophyll a
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/ChlorophyllGIF.gif)
+
+#### Crozet and Kerguelen islands seasonal iron fertilization in the Southern Ocean
+![alt text here](/Users/matias/Desktop/FinalTask/Ocean_Maps/KerguelenGIF.gif)
+
