@@ -1,6 +1,6 @@
 ---
 title: "Visualizing the World Ocean"
-output: html_document
+output: github_document
 ---
 
 Using `Matlab` to create data visualizations of the World Ocean

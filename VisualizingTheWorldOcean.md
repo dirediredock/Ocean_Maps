@@ -8,58 +8,58 @@ Energy and Depth
 
 #### Light
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
 
 #### Daytime Temperature
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/DayTemperatureGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/DayTemperatureGIF.gif)
 
 #### Mixed Layer Depth
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/MixedLayerDepthGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/MixedLayerDepthGIF.gif)
 
 #### The Neritic Zone, or the ecological coast of the World Ocean
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
 
 Dissolved in Seawater
 ---------------------
 
 #### Salinity
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SalinityGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SalinityGIF.gif)
 
 #### Silicate
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SilicateGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SilicateGIF.gif)
 
 #### Nitrate
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NitrateGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NitrateGIF.gif)
 
 #### Phosphate
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/PhosphateGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/PhosphateGIF.gif)
 
 #### Oxygen at the surface
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SurfaceOxygenGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SurfaceOxygenGIF.gif)
 
 #### Oxygen at a depth of 500 meters
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500deepOxygenGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500deepOxygenGIF.gif)
 
 #### Apparent Oxygen Utilization at a depth of 500 meters
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500depthRespirationGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500depthRespirationGIF.gif)
 
 Photosynthesis and Carbon Fixation
 ----------------------------------
 
 #### Chlorophyll a
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ChlorophyllGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ChlorophyllGIF.gif)
 
 #### Crozet and Kerguelen islands seasonal iron fertilization in the Southern Ocean
 
-![alt text here](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
