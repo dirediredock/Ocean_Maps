@@ -3,50 +3,53 @@ title: "Visualizing the World Ocean"
 output: github_document
 ---
 
-Using `Matlab` to create data visualizations of the World Ocean
+### 1. Energy and Depth
 
-## Energy and Depth
-
-#### Light
+##### 1.1 Light
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
 
-#### Daytime Temperature
+##### 1.2 Daytime Temperature
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/DayTemperatureGIF.gif)
 
-#### Mixed Layer Depth
+##### 1.3 Mixed Layer Depth
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/MixedLayerDepthGIF.gif)
 
-#### The Neritic Zone, or the ecological coast of the World Ocean
+##### 1.4 The Neritic Zone, or the ecological coast of the World Ocean
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
 
-## Dissolved in Seawater
+### 2. Dissolved in Seawater
 
-#### Salinity
+##### 2.1 Salinity
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SalinityGIF.gif)
 
-#### Silicate
+##### 2.2 Silicate
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SilicateGIF.gif)
 
-#### Nitrate
+##### 2.3 Nitrate
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NitrateGIF.gif)
 
-#### Phosphate
+##### 2.4 Phosphate
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/PhosphateGIF.gif)
 
-#### Oxygen at the surface
+##### 2.5 Oxygen at the surface
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SurfaceOxygenGIF.gif)
 
-#### Oxygen at a depth of 500 meters 
+##### 2.6 Oxygen at a depth of 500 meters 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500deepOxygenGIF.gif)
 
-#### Apparent Oxygen Utilization at a depth of 500 meters 
+##### 2.7 Oxygen Utilization at a depth of 500 meters 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500depthRespirationGIF.gif)
 
-## Photosynthesis and Carbon Fixation
+### 3. Photosynthesis and Carbon Fixation
 
-#### Chlorophyll a
+##### 3.1 Chlorophyll a
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ChlorophyllGIF.gif)
 
-#### Crozet and Kerguelen islands seasonal iron fertilization in the Southern Ocean
+##### 3.1 HNLC regions
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/HNLC.gif)
+
+##### 3.3 Iron fertilization
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
+
+Ephemeral summer iron fertilization at Crozet and Kerguelen in the Indian Southern Ocean.
 
