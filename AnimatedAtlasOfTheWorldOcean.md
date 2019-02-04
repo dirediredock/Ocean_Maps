@@ -1,0 +1,89 @@
+Animated Atlas of the World Ocean
+================
+
+1. Energy and Depth
+===================
+
+1.1 Light
+---------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
+
+1.2 Daytime Temperature
+-----------------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/DayTemperatureGIF.gif)
+
+1.3 Mixed Layer Depth
+---------------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/MixedLayerDepthGIF.gif)
+
+1.4 The Neritic Zone, or the Ecological Coast of the World Ocean
+----------------------------------------------------------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
+
+2. Dissolved in Seawater
+========================
+
+2.1 Salinity
+------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SalinityGIF.gif)
+
+2.2 Silicate
+------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SilicateGIF.gif)
+
+2.3 Nitrate
+-----------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NitrateGIF.gif)
+
+2.4 Phosphate
+-------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/PhosphateGIF.gif)
+
+2.5 Oxygen at the Surface
+-------------------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SurfaceOxygenGIF.gif)
+
+2.6 Oxygen at a Depth of 500 meters
+-----------------------------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500deepOxygenGIF.gif)
+
+2.7 Oxygen Utilization at a Depth of 500 meters
+-----------------------------------------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500depthRespirationGIF.gif)
+
+3. Photosynthesis and Carbon Fixation
+=====================================
+
+3.1 Chlorophyll a
+-----------------
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ChlorophyllGIF.gif)
+
+3.2 HNLC regions
+----------------
+
+About one third of the World Ocean is known to be 'High-Nutrient Low-Chlorophyll', or HNLC. There are three seasonally persistent HNLC regions in the World Ocean: the Southern Ocean, the Equatorial Pacific, and the North Pacific. Other HNLC pockets vary seasonally, like the North Atlantic, the Benguela Current, the Arabian Sea, the Bay of Bengal, and the Arctic Sea.
+
+In HNLC regions macronutrients like nitrogen and phosphorus are abundant, but most remain unused by primary producers because of iron scarcity (Boyd et al, 2007). The absence of iron in the Southern Ocean is the primary reason behind the existence of the largest and richest unused inorganic stock on Earth (Deppeler and Davidson, 2017).
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/HNLC.gif)
+
+In animated map 3.2 the HNLC threshold is defined as phosphate higher than 0.3 micromoles per Liter (Cullen, 2006).
+
+3.3 Iron Fertilization
+----------------------
+
+Strong phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the region of the Southern Ocean south of India.
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
