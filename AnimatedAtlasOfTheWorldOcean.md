@@ -4,8 +4,8 @@ Animated Atlas of the World Ocean
 1. Energy and Depth
 ===================
 
-1.1 Light
----------
+1.1 Light (PAR)
+---------------
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
 
