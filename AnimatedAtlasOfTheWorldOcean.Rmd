@@ -3,84 +3,85 @@ title: "Animated Atlas of the World Ocean"
 output: github_document
 ---
 
-# 1. Energy and Depth 
+#1. Energy and Depth
 
-## 1.1 Light (PAR)
+##1.1 Light
+
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
 
-## 1.2 Daytime Temperature
+##1.2 Daytime Temperature
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/DayTemperatureGIF.gif)
 
-## 1.3 Mixed Layer Depth
+##1.3 Mixed Layer Depth
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/MixedLayerDepthGIF.gif)
 
-## 1.4 The Neritic Zone, or the Ecological Coast of the World Ocean
+##1.4 The Neritic Zone, or the Ecological Coast of the World Ocean
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
 
-# 2. Dissolved in Seawater
+#2. Dissolved in Seawater
 
-## 2.1 Salinity
+##2.1 Salinity
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SalinityGIF.gif)
 
-## 2.2 Silicate
+##2.2 Silicate
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SilicateGIF.gif)
 
-## 2.3 Nitrate
+##2.3 Nitrate
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NitrateGIF.gif)
 
-## 2.4 Phosphate
+##2.4 Phosphate
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/PhosphateGIF.gif)
 
-## 2.5 Oxygen at the Surface
+##2.5 Oxygen at the Surface
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SurfaceOxygenGIF.gif)
 
-## 2.6 Oxygen at a Depth of 500 meters
+##2.6 Oxygen at a Depth of 500 meters
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500deepOxygenGIF.gif)
 
-## 2.7 Oxygen Utilization at a Depth of 500 meters
+##2.7 Oxygen Utilization at a Depth of 500 meters
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500depthRespirationGIF.gif)
 
-# 3. Photosynthesis and Carbon Fixation
+#3. Photosynthesis and Carbon Fixation
 
-## 3.1 Chlorophyll a
+##3.1 Chlorophyll a
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ChlorophyllGIF.gif)
 
-## 3.2 HNLC regions
+##3.2 HNLC regions
 
 About one third of the World Ocean is known to be 'High-Nutrient Low-Chlorophyll', or HNLC. There are three seasonally persistent HNLC regions in the World Ocean: the Southern Ocean, the Equatorial Pacific, and the North Pacific. Other HNLC pockets vary seasonally, like the North Atlantic, the Benguela Current, the Arabian Sea, the Bay of Bengal, and the Arctic Sea.
 
@@ -88,11 +89,13 @@ In HNLC regions macronutrients like nitrogen and phosphorus are abundant, but mo
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/HNLC.gif)
 
-In animated map 3.2 the HNLC threshold is defined as phosphate higher than 0.3 micromoles per Liter (Cullen, 2006). 
+[Figure 3.2] Map of HNLC regions, defined as euphotic zone phosphate found in concentrations higher than 0.3 micromoles per Liter (Cullen, 2006). 
 
-## 3.3 Iron Fertilization
+##3.3 Iron Fertilization
 
-Strong phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the region of the Southern Ocean south of India.
+Iron scarcity limits oceanic producers, which require nanomolar amounts of iron for growth and reproduction (Falkowski and Raven, 2006). There are many naturally occurring pathways for particulate iron to reach the ocean, and in turn phytoplankton. Every day the sunlit upper layer is fertilized by winds that carry iron-rich dust from deserts (Jickells et al, 2005), by icebergs that release trapped iron as they melt (Duprat et al, 2016), by upwelling currents that transport iron and other nutrients from deeper and colder water layers towards the surface (Pollard et al, 2009), and by volcanic eruptions that settle iron-rich ash over oceanic waters (Hamme et al, 2010) and on the slopes of surrounding islands, where settled ash can be later picked up by the wind (Stamieszkin, 2018). All these natural processes have been ongoing for millions of years and are highly variable across time and space, causing differentials in micronutrient profiles across the World Ocean.
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
+
+[Figure 3.3] Strong and ephemeral phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the Southern Ocean south of India.
 

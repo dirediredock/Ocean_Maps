@@ -4,8 +4,8 @@ Animated Atlas of the World Ocean
 1. Energy and Depth
 ===================
 
-1.1 Light (PAR)
----------------
+1.1 Light
+---------
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
 
@@ -79,11 +79,13 @@ In HNLC regions macronutrients like nitrogen and phosphorus are abundant, but mo
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/HNLC.gif)
 
-In animated map 3.2 the HNLC threshold is defined as phosphate higher than 0.3 micromoles per Liter (Cullen, 2006).
+\[Figure 3.2\] Map of HNLC regions, defined as euphotic zone phosphate found in concentrations higher than 0.3 micromoles per Liter (Cullen, 2006).
 
 3.3 Iron Fertilization
 ----------------------
 
-Strong phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the region of the Southern Ocean south of India.
+Iron scarcity limits oceanic producers, which require nanomolar amounts of iron for growth and reproduction (Falkowski and Raven, 2006). There are many naturally occurring pathways for particulate iron to reach the ocean, and in turn phytoplankton. Every day the sunlit upper layer is fertilized by winds that carry iron-rich dust from deserts (Jickells et al, 2005), by icebergs that release trapped iron as they melt (Duprat et al, 2016), by upwelling currents that transport iron and other nutrients from deeper and colder water layers towards the surface (Pollard et al, 2009), and by volcanic eruptions that settle iron-rich ash over oceanic waters (Hamme et al, 2010) and on the slopes of surrounding islands, where settled ash can be later picked up by the wind (Stamieszkin, 2018). All these natural processes have been ongoing for millions of years and are highly variable across time and space, causing differentials in micronutrient profiles across the World Ocean.
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
+
+\[Figure 3.3\] Strong and ephemeral phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the Southern Ocean south of India.
