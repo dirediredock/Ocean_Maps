@@ -3,85 +3,108 @@ title: "Animated Atlas of the World Ocean"
 output: github_document
 ---
 
-#1. Energy and Depth
+##1. Energy and Depth
 
-##1.1 Light
+###1.1 Light
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/LightGIF.gif)
 
-##1.2 Daytime Temperature
+###1.2 Daytime Temperature
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/DayTemperatureGIF.gif)
 
-##1.3 Mixed Layer Depth
+###1.3 Mixed Layer Depth
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/MixedLayerDepthGIF.gif)
 
-##1.4 The Neritic Zone, or the Ecological Coast of the World Ocean
+###1.4 Oceanic Regions
 
+Despite the almost 20 kilometer difference between the summit of Mount Everest (89000 meters) and the bottom of Challenger Deep (-109000 meters), the planet is actually quite smooth. In fact, the surface roughness of Planet Earth is comparatively less rugged than that of a billiard ball. Even though the planet’s surface is smooth, at a planetary scale these differences dramatically affect Earth's ecoregions. The most abundant elevation on Earth is the coast, at 0 meters, which divides dry land from the ocean.
 
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ElevationGIF.gif)
+
+[Figure %%%%]
+
+The euphotic zone is defined as the region the oceanic water column region between 0 and 200 meters depth, where sunlight is abundant. The Neritic Zone is the bathymetric region where the euphotic zone meets the seafloor. It is only in the Neritic Zone where seafloor and sunlight interact, which creates the conditions for the rise of unique benthic ecosystems, each highly regionally distinct. The Neritic Zone sharply contrasts the ecology of the Oceanic Pelagic zone, or the open ocean. The Oceanic Pelagic ecosystem is the oldest and largest ecosystem on Planet Earth.
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
 
-#2. Dissolved in Seawater
+[Figure %%%%]
 
-##2.1 Salinity
+##2. Dissolved in Seawater
+
+###2.1 Surface Salinity
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SalinityGIF.gif)
 
-##2.2 Silicate
+###2.2 Surface Silicate
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SilicateGIF.gif)
 
-##2.3 Nitrate
+###2.3 Surface Nitrate
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NitrateGIF.gif)
 
-##2.4 Phosphate
+###2.4 Surface Phosphate
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/PhosphateGIF.gif)
 
-##2.5 Oxygen at the Surface
+###2.5 Surface Oxygen
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/SurfaceOxygenGIF.gif)
 
-##2.6 Oxygen at a Depth of 500 meters
 
+##3. The Living Ocean
+
+###3.1 Oceanic Photosynthesis
+
+Photosynthesis is the chemical process behind making organic matter from inorganic ingredients. It starts with water and CO2, which are converted to sugars and oxygen through the power of sunlight. The process as we know it today is about 450 million years ago, but is thought to be at least 3.5 billion years old in its first incarnation, used by ancient green organisms in the oceans of early Earth. 
+
+Photosynthesis has two big steps, the ‘light-dependant phase’ and the ‘light-independent phase.’ Each of these stages has a champion, a cornerstone molecule that physically and chemically holds the mechanism together. For the light-dependant stage is Chlorophyll, the famous green molecule that can harness sunlight. For the light-independent stage is the lesser known, but equally or even more important protein RuBisCO, which can turn inorganic carbon to organic carbon. Since then plant-like organisms like bacteria, terrestrial plants, and oceanic phytoplankton have inherited the ability to perform photosynthesis, and to this day they contribute all the energy that sustains life on Earth. 
+
+Chlorophyll is the cornerstone of the light-dependant reactions, and is what makes photosynthetic organisms green colored. Within plant-like cells there are several types of Chlorophyll, all bundled together in complex structures called Photosystems, which maximize the capture of sunlight photons. This process is the only way energy enters all living things of planet Earth, so you can say nuclear fusion powers life. 
+
+After the energy leaves Chlorophyll and reaches relay molecules, two incredibly important things happen simultaneously. On one side, the charged molecules relay the energy down the photosynthetic mechanisms, to be used by the later stages of the process. This reaction is the basis of what keeps life, well, living. An on the other side, the depleted Chlorophyll – alongside the whole sunlight receptor complex – does something so outstanding and amazing and important, it is difficult to grasp how it evolved in the first place and how it keeps happening to this day. 
+
+Chlorophyll, along with the entire Photosystem, can split the extremely stable water molecules into its components. The Photosystem needs the charge of one electron, so the water is left as two parts hydrogen and one part oxygen. The hydrogens are stored and work like a battery for other parts of the molecular mechanism. The oxygen leaves the plant as a byproduct, and becomes the oxygen we humans – alongside all animals – breathe and need to survive. 
+
+RuBisCO, short for Ribulose-1,5-Bisphosphate Carboxylase-Oxygenase, is an enzyme that is the cornerstone of the light-independent reactions, and the final step where the transferred energy is used to create organic matter. It’s important to understand the context where RuBisCO first evolved. For incredibly vast amounts of time, Earth’s atmosphere was saturated with carbon dioxide and had very little oxygen. Green organisms had an evolutionary pressure to devise a mechanism that could convert all the inorganic CO2 into organic carbon, which are full of chemical energy. The solution was RuBisCO, which it’s actually a rather sloppy enzyme and not particularly good at its job; it’s incredibly slow compared to other enzymes, its byproducts are highly toxic, and only makes the correct product half of the time. However, it’s still a leap forward in the acquisition of organic matter, when the alternative is scavenging and running into organic carbon by chance. 
+
+To compensate for the flaws in RuBisCO, early plants made A TON of copies of the protein, saturating their cells with it; and for the first time in the history of life on Earth, living things had a steady income of food. Time went by, and not only did the ancient plants stick with it; it took over the entire planet. It was so successful, even accounting the myriad of flaws, that it made photosynthetic organisms the dominant life form on this planet, and they still are. However, it was only a matter of time for one of these flaws to become dangerously problematic. Oxygen is a byproduct of the light-dependant reactions, and its new abundance interfered with the chemistry of RuBisCO. Instead of creating organic sugars by combining CO2, RuBisCO would add oxygen instead and create toxic byproducts, which the plant had to deal with. Several systems evolved to patch the problems of RuBisCO, and in large part, these shaped the evolution of plant themselves. To this day plants, plankton and bacteria make massive amounts of RuBisCO, to compensate for its flaws, a legacy billions of years in the making. It has made RuBisCO, by far, the most abundant protein on planet Earth. 
+
+This only continues to illustrate the transformative and adaptive powers of evolution. It was the inefficient and toxic output of the oxygen byproduct that made plants evolve as they did. It was the higher concentrations of oxygen in ancient Earth that forced the first animals to breathe it, a process that was passed along for billions of years and is the reason we breathe oxygen today. Without photosynthesis present in every biome, without its products and byproducts, and its sloppy mishaps, no pressures would have risen for other life-forms to endure and co-evolve for millions of years. Even though so much hinges on a protein that rather sucks – developed by gradual changes over huge expanses of time – it is part of the reasons we, as air-breathing and plant-eating animals, exist. 
+
+![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ChlorophyllGIF.gif)
+
+###3.2 OMZ Regions [500 meter depth]
+
+Oxygem Minimum Zones, or OMZs, are deeper regions of the water column that have low oxygen concentrations.
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500deepOxygenGIF.gif)
 
-##2.7 Oxygen Utilization at a Depth of 500 meters
 
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500depthRespirationGIF.gif)
 
-#3. Photosynthesis and Carbon Fixation
-
-##3.1 Chlorophyll a
-
-
-
-![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ChlorophyllGIF.gif)
-
-##3.2 HNLC regions
+###3.3 HNLC Regions
 
 About one third of the World Ocean is known to be 'High-Nutrient Low-Chlorophyll', or HNLC. There are three seasonally persistent HNLC regions in the World Ocean: the Southern Ocean, the Equatorial Pacific, and the North Pacific. Other HNLC pockets vary seasonally, like the North Atlantic, the Benguela Current, the Arabian Sea, the Bay of Bengal, and the Arctic Sea.
 
@@ -89,13 +112,16 @@ In HNLC regions macronutrients like nitrogen and phosphorus are abundant, but mo
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/HNLC.gif)
 
-[Figure 3.2] Map of HNLC regions, defined as euphotic zone phosphate found in concentrations higher than 0.3 micromoles per Liter (Cullen, 2006). 
+[Figure %%%%%] Map of HNLC regions, defined as euphotic zone phosphate found in concentrations higher than 0.3 micromoles per Liter (Cullen, 2006). 
 
-##3.3 Iron Fertilization
+###3.4 Iron Fertilization
 
 Iron scarcity limits oceanic producers, which require nanomolar amounts of iron for growth and reproduction (Falkowski and Raven, 2006). There are many naturally occurring pathways for particulate iron to reach the ocean, and in turn phytoplankton. Every day the sunlit upper layer is fertilized by winds that carry iron-rich dust from deserts (Jickells et al, 2005), by icebergs that release trapped iron as they melt (Duprat et al, 2016), by upwelling currents that transport iron and other nutrients from deeper and colder water layers towards the surface (Pollard et al, 2009), and by volcanic eruptions that settle iron-rich ash over oceanic waters (Hamme et al, 2010) and on the slopes of surrounding islands, where settled ash can be later picked up by the wind (Stamieszkin, 2018). All these natural processes have been ongoing for millions of years and are highly variable across time and space, causing differentials in micronutrient profiles across the World Ocean.
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
 
-[Figure 3.3] Strong and ephemeral phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the Southern Ocean south of India.
+[Figure %%%%%] Strong and ephemeral phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the Southern Ocean south of India.
+
+References
+
 
