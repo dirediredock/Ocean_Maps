@@ -28,7 +28,7 @@ The euphotic zone is defined as the region the oceanic water column region betwe
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
 
-\[Figure %%%%\]
+\[Figure %. From Mount Everest to Challenger Deep in 200 meter intervals\]
 
 2. Dissolved in Seawater
 ------------------------
