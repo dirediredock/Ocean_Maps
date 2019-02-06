@@ -2,6 +2,7 @@
 title: "Animated Atlas of the World Ocean"
 output: github_document
 ---
+
 ## 1. Energy and Depth
 
 ### 1.1 Light
@@ -28,13 +29,13 @@ Despite the almost 20 kilometer difference between the summit of Mount Everest (
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/ElevationGIF.gif)
 
-[Figure %%%%]
+*[Figure 3] - From Mount Everest to Challenger Deep in 200-meter intervals.*
 
-The euphotic zone is defined as the region the oceanic water column region between 0 and 200 meters depth, where sunlight is abundant. The Neritic Zone is the bathymetric region where the euphotic zone meets the seafloor. It is only in the Neritic Zone where seafloor and sunlight interact, which creates the conditions for the rise of unique benthic ecosystems, each highly regionally distinct. The Neritic Zone sharply contrasts the ecology of the Oceanic Pelagic zone, or the open ocean. The Oceanic Pelagic ecosystem is the oldest and largest ecosystem on Planet Earth.
+The euphotic zone is defined as the oceanic water column region between 0 and 200 meters depth, where sunlight is abundant. The Neritic Zone is the bathymetric region where the euphotic zone meets the seafloor. It is only in the Neritic Zone where seafloor and sunlight interact, which creates the conditions for the rise of unique benthic ecosystems, each highly regionally distinct. The Neritic Zone sharply contrasts the ecology of the Oceanic Pelagic zone, or the open ocean. The Oceanic Pelagic ecosystem is the oldest and largest ecosystem on Planet Earth.
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/NeriticZone.png)
 
-[Figure %. From Mount Everest to Challenger Deep in 200 meter intervals]
+*[Figure 4] - Highlighting the region between 0 and 200 meters depth, the Neritic Zone or the ecological coast of the World Ocean.*
 
 ## 2. Dissolved in Seawater
 
@@ -93,7 +94,7 @@ This only continues to illustrate the transformative and adaptive powers of evol
 
 ### 3.2 OMZ Regions [500 meter depth]
 
-Oxygem Minimum Zones, or OMZs, are deeper regions of the water column that have low oxygen concentrations.
+Oxygen Minimum Zones, or OMZs, are deeper regions of the water column that have low oxygen concentrations.
 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/500deepOxygenGIF.gif)
@@ -105,13 +106,13 @@ Oxygem Minimum Zones, or OMZs, are deeper regions of the water column that have 
 
 ### 3.3 HNLC Regions
 
-About one third of the World Ocean is known to be 'High-Nutrient Low-Chlorophyll', or HNLC. There are three seasonally persistent HNLC regions in the World Ocean: the Southern Ocean, the Equatorial Pacific, and the North Pacific. Other HNLC pockets vary seasonally, like the North Atlantic, the Benguela Current, the Arabian Sea, the Bay of Bengal, and the Arctic Sea.
+About one-third of the World Ocean is known to be 'High-Nutrient Low-Chlorophyll', or HNLC. There are three seasonally persistent HNLC regions in the World Ocean: the Southern Ocean, the Equatorial Pacific, and the North Pacific. Other HNLC pockets vary seasonally, like the North Atlantic, the Benguela Current, the Arabian Sea, the Bay of Bengal, and the Arctic Sea.
 
 In HNLC regions macronutrients like nitrogen and phosphorus are abundant, but most remain unused by primary producers because of iron scarcity (Boyd et al, 2007). The absence of iron in the Southern Ocean is the primary reason behind the existence of the largest and richest unused inorganic stock on Earth (Deppeler and Davidson, 2017).
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/HNLC.gif)
 
-[Figure %%%%%] Map of HNLC regions, defined as euphotic zone phosphate found in concentrations higher than 0.3 micromoles per Liter (Cullen, 2006). 
+*[Figure %] - Map of HNLC regions, defined as euphotic zone phosphate found in concentrations higher than 0.3 micromoles per Liter (Cullen, 2006).*
 
 ### 3.4 Iron Fertilization
 
@@ -119,8 +120,9 @@ Iron scarcity limits oceanic producers, which require nanomolar amounts of iron 
 
 ![](https://raw.githubusercontent.com/dirediredock/Ocean_Maps/master/KerguelenGIF.gif)
 
-[Figure %%%%%] Strong and ephemeral phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the Southern Ocean south of India.
+*Figure %] - Strong and ephemeral phytoplankton blooms after seasonal iron fertilization at Crozet and Kerguelen islands in the Southern Ocean south of India.*
 
 References
+
 
 
